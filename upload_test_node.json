@@ -1,0 +1,7 @@
+{
+    "name": "Custom node upload test",
+    "description": "Upload test node",
+    "author": "DDUKHAE",
+    "version": "1.0.0",
+    "entry": "bio_sc.py"
+}
